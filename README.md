@@ -1,5 +1,5 @@
 # PowerApp-SCP-BizzRules-Prototype
-Repos containing Microsoft PowerAutomate flows, SCP Business Rules Project and PowerApp template.
+Repos containing Microsoft PowerAutomate flows, SCP Business Rules Project and PowerApp template
 
 I added placeholders "<<<>>>" on the definitions files for you to configure with your own values.
 
